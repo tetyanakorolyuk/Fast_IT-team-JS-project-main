@@ -1,4 +1,4 @@
-import './sass/common.scss';
+import './sass/main.scss';
 //
 import { headerJS } from './js/header.js';
 //
